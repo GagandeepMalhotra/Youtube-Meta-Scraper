@@ -20,8 +20,6 @@ Make sure you have the following libraries installed before running the script:
    - If the link is valid, a messagebox will display the metadata information, including the video title, description, and tags.
    - If there is an error, an error messagebox will be shown with the corresponding error message.
 
-Note: The GUI window is centered on the screen for better visibility.
-
 ## Example
 
 Here's an example of how to use the script:
